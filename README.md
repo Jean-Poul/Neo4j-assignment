@@ -34,3 +34,8 @@ o is there any close ‘societies’ between players (passing the ball to each o
 o how close is the connection between two specific players?
 o …
 - Use graph visualization as much as appropriate
+
+
+Submit the solution in your Github repository and a link to it in Peergrade.  
+
+This is a group project, the solution of which provides 20 study points.
