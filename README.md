@@ -42,4 +42,4 @@ This is a group project, the solution of which provides 20 study points.
 
 ## Walkthrough 
 
-All our answers to the above given questions are answered in the notebook Assigntment5-Neo4j-Nodesolution. For example with a query string (cypher) look in the notebook assignment-4-neo4j.
+All our answers to the above given questions are answered in the notebook Assigntment5-Neo4j-Nodesolution. For example with a query string (cypher) look in the notebook Neo4J-assignment-4-examplewithcypher.ipynb.
